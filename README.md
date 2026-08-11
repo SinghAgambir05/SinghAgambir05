@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+I'm currently working on:<br>Jarvis — a locally-run AI assistant built with Ollama (Qwen3:8b) for reasoning, <br>ChromaDB + sentence-transformers for long-term memory, Piper for text-to-speech<br>, and faster-whisper for speech recognition, running entirely offline on an <br>RTX 4050 (6GB VRAM). Also strengthening my core programming foundation in C, C++, and <br>Java as a 2nd-year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology.<br><br>I'm looking to collaborate on:<br>Edge AI / TinyML projects that combine embedded hardware with machine learnin,<br> think ESP32-class devices running lightweight inference rather than just streaming sensor <br>data to the cloud. Also open to IoT builds involving PCB design, sensor integration, and real-time <br>dashboards (I've shipped a few of these already: AquaWatch water quality monitor, a smart e-waste sorting system).<br><br>I'm looking for help with:<br>Getting local LLM inference to run efficiently on consumer-grade, VRAM-constrained <br>hardware — quantization strategies, context management, and latency tuning for a 6GB GPU. <br>Also open to feedback on custom PCB shield layouts (I've designed a six-peripheral ESP32 sensor <br>shield with a dual power rail).<br><br>I'm currently learning:<br>Core computer science fundamentals in C, C++, and Java alongside my AI/ML coursework, machine <br>learning with scikit-learn as part of a structured Python project ladder, and a self-designed two-year <br>electronics curriculum moving from fundamentals toward Edge AI/TinyML and VLSI.<br><br>Ask me about:<br>Building AI assistants that run fully local, ESP32-based IoT systems (water quality monitoring, e-waste sorting, thermal management),<br> custom PCB design in EasyEDA, or what it's actually like to self-study electronics on a structured curriculum<br> while doing a CSE-AIML degree.
 
-<!--
-**SinghAgambir05/SinghAgambir05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agam_singhj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Agambir SIngh Jammu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SinghAsmoedeus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingagambir@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SinghAgambir05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SinghAgambir05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SinghAgambir05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SinghAgambir05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=SinghAgambir05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
