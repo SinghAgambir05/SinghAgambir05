@@ -1,3 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Agambir%20Singh%20Jammu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20that%20runs%20local%20%7C%20Embedded%20Systems%20%7C%20CSE-AIML%20%40%20SRM&descAlignY=55&descSize=18)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+Jarvis%2C+a+fully-local+AI+assistant;Designing+PCBs+for+ESP32-based+IoT+systems;2nd-year+CSE-AIML+student+%40+SRMIST" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 2nd-year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology. I split my time between two things that don't usually overlap on the same GitHub profile: building AI systems that run fully offline, and building embedded/IoT hardware that mostly doesn't. Somewhere in the middle is where I actually want to end up.
 
@@ -30,7 +38,7 @@ ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote, real-time monitor
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agam_singhj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agambir-singh-jammu-4204212b9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SinghAsmoedeus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingagambir@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif (ESP32)](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 # 🎮 Also into:
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
@@ -38,6 +46,9 @@ ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote, real-time monitor
 ![](https://github-readme-stats.shion.dev/api?username=SinghAgambir05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SinghAgambir05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SinghAgambir05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=SinghAgambir05&theme=darkhub&no-frame=true&row=1&column=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -49,3 +60,5 @@ ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote, real-time monitor
 [![](https://komarev.com/ghpvc/?username=SinghAgambir05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer)
