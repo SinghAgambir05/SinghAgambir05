@@ -7,27 +7,27 @@
 </p>
 
 # 💫 About Me:
-2nd-year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology. I split my time between two things that don't usually overlap on the same GitHub profile: building AI systems that run fully offline, and building embedded/IoT hardware that mostly doesn't. Somewhere in the middle is where I actually want to end up.
+2nd-year B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology. I split my time between AI systems that run fully offline and embedded/IoT hardware that mostly doesn't — the intersection is where I want to end up.
 
-I'm currently working on:<br>Jarvis — a locally-run AI assistant built with Ollama (Qwen3:8b) for reasoning, <br>ChromaDB + sentence-transformers for long-term memory, Piper for text-to-speech<br>, and faster-whisper for speech recognition, running entirely offline on an <br>RTX 4050 (6GB VRAM). Also strengthening my core programming foundation in C, C++, and Java.<br><br>I'm looking to collaborate on:<br>Edge AI / TinyML projects that combine embedded hardware with machine learnin,<br> think ESP32-class devices running lightweight inference rather than just streaming sensor <br>data to the cloud. Also open to IoT builds involving PCB design, sensor integration, and real-time <br>dashboards (I've shipped a few of these already: AquaWatch water quality monitor, a smart e-waste sorting system).<br><br>I'm looking for help with:<br>Getting local LLM inference to run efficiently on consumer-grade, VRAM-constrained <br>hardware — quantization strategies, context management, and latency tuning for a 6GB GPU. <br>Also open to feedback on custom PCB shield layouts (I've designed a six-peripheral ESP32 sensor <br>shield with a dual power rail).<br><br>I'm currently learning:<br>Core computer science fundamentals in C, C++, and Java alongside my AI/ML coursework, machine <br>learning with scikit-learn as part of a structured Python project ladder, and a self-designed two-year <br>electronics curriculum moving from fundamentals toward Edge AI/TinyML and VLSI.<br><br>Ask me about:<br>Building AI assistants that run fully local, ESP32-based IoT systems (water quality monitoring, e-waste sorting, thermal management),<br> custom PCB design in EasyEDA, or what it's actually like to self-study electronics on a structured curriculum<br> while doing a CSE-AIML degree.
+I'm currently working on:<br>Jarvis — a locally-run AI assistant using Ollama (Qwen3:8b) for reasoning, ChromaDB for memory, <br>Piper for TTS, and faster-whisper for STT, running fully offline on an RTX 4050 (6GB VRAM). <br>Also sharpening core C, C++, and Java fundamentals.<br><br>I'm looking to collaborate on:<br>Edge AI / TinyML — ESP32-class devices running lightweight inference instead of just streaming <br>sensor data to the cloud. Also open to IoT builds with PCB design and real-time dashboards <br>(see AquaWatch and the e-waste sorter below).<br><br>I'm looking for help with:<br>Running local LLM inference efficiently on a VRAM-constrained 6GB GPU — quantization, context <br>management, latency tuning. Also open to feedback on my six-peripheral ESP32 PCB shield design.<br><br>I'm currently learning:<br>C, C++, and Java alongside AI/ML coursework; machine learning with scikit-learn through a <br>structured Python project ladder; and a self-designed two-year electronics curriculum heading <br>toward Edge AI/TinyML and VLSI.<br><br>Ask me about:<br>Fully-local AI assistants, ESP32-based IoT systems (water quality, e-waste sorting, thermal <br>management), PCB design in EasyEDA, or self-studying electronics alongside a CSE-AIML degree.
 
 
 ## 🚀 Featured Projects:
 
 **AquaWatch — IoT Smart Water Quality Monitoring System**<br>
-ESP32 + TDS sensor + Firebase, with a live web dashboard. Presented as a conference poster alongside an IEEE-format paper.
+ESP32 + TDS sensor + Firebase with a live web dashboard. IEEE paper + conference poster.
 
 **Smart E-Waste Sorting System**<br>
-ESP32 with an HX711 load cell, an inductive proximity sensor, and conductivity probes to auto-sort waste by material. Ran on a custom PCB shield I designed in EasyEDA. IEEE paper co-authored with three classmates.
+ESP32 with a load cell, proximity sensor, and conductivity probes to auto-sort waste by material, on a custom PCB shield. IEEE paper with three classmates.
 
 **Custom ESP32 Sensor Shield (PCB)**<br>
-Six-peripheral shield with a dual power rail layout, designed from scratch in EasyEDA — built to standardize the sensor stack across my IoT projects instead of rewiring breadboards every time.
+Six-peripheral shield with a dual power rail, designed in EasyEDA to standardize the sensor stack across my IoT projects.
 
 **Smart Thermal Management System**<br>
-Arduino Nano + NTC thermistor + PWM-driven fan via a BC547 transistor, closed-loop temperature control. Documented with a poster and presentation.
+Arduino Nano + NTC thermistor + PWM fan control via a BC547 transistor, closed-loop.
 
 **Live Temperature & Humidity Tracking System**<br>
-ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote, real-time monitoring.
+ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote monitoring.
 
 ## 📄 Papers & Presentations:
 - IEEE-format papers for AquaWatch and the Smart E-Waste Sorting System
