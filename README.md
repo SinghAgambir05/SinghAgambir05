@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://SinghAgambir05.github.io"><img src="assets/stage-1.jpg" width="100%" alt="Driftlab: a pink jellyfish in a lilac sky"></a>
-</p>
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Agambir%20Singh%20Jammu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20that%20runs%20local%20%7C%20Embedded%20Systems%20%7C%20CSE-AIML%20%40%20SRM&descAlignY=55&descSize=18)
 
 <p align="center">
@@ -15,7 +11,6 @@
 
 I'm currently working on:<br>Jarvis — a locally-run AI assistant using Ollama (Qwen3:8b) for reasoning, ChromaDB for memory, <br>Piper for TTS, and faster-whisper for STT, running fully offline on an RTX 4050 (6GB VRAM). <br>Also sharpening core C, C++, and Java fundamentals.<br><br>I'm looking to collaborate on:<br>Edge AI / TinyML — ESP32-class devices running lightweight inference instead of just streaming <br>sensor data to the cloud. Also open to IoT builds with PCB design and real-time dashboards <br>(see AquaWatch and the e-waste sorter below).<br><br>I'm looking for help with:<br>Running local LLM inference efficiently on a VRAM-constrained 6GB GPU — quantization, context <br>management, latency tuning. Also open to feedback on my six-peripheral ESP32 PCB shield design.<br><br>I'm currently learning:<br>C, C++, and Java alongside AI/ML coursework; machine learning with scikit-learn through a <br>structured Python project ladder; and a self-designed two-year electronics curriculum heading <br>toward Edge AI/TinyML and VLSI.<br><br>Ask me about:<br>Fully-local AI assistants, ESP32-based IoT systems (water quality, e-waste sorting, thermal <br>management), PCB design in EasyEDA, or self-studying electronics alongside a CSE-AIML degree.
 
-<p align="center"><img src="assets/stage-2.jpg" width="100%" alt=""></p>
 
 ## 🚀 Featured Projects:
 
@@ -24,8 +19,6 @@ ESP32 + TDS sensor + Firebase with a live web dashboard. IEEE paper + conference
 
 **Smart E-Waste Sorting System**<br>
 ESP32 with a load cell, proximity sensor, and conductivity probes to auto-sort waste by material, on a custom PCB shield. IEEE paper with three classmates.
-
-<p align="center"><img src="assets/stage-3.jpg" width="100%" alt=""></p>
 
 **Custom ESP32 Sensor Shield (PCB)**<br>
 Six-peripheral shield with a dual power rail, designed in EasyEDA to standardize the sensor stack across my IoT projects.
@@ -36,14 +29,10 @@ Arduino Nano + NTC thermistor + PWM fan control via a BC547 transistor, closed-l
 **Live Temperature & Humidity Tracking System**<br>
 ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote monitoring.
 
-<p align="center"><img src="assets/stage-4.jpg" width="100%" alt=""></p>
-
 ## 📄 Papers & Presentations:
 - IEEE-format papers for AquaWatch and the Smart E-Waste Sorting System
 - Conference posters for AquaWatch, Smart Thermal Management, and the Temperature/Humidity Tracker
 - "LLM-OS: Reimagining Resource Management for the AI Era" — class presentation poster + slide deck on AIOS kernel architecture, hierarchical context memory management, and agent scheduling
-
-<p align="center"><img src="assets/stage-5.jpg" width="100%" alt=""></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agam_singhj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agambir-singh-jammu-4204212b9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SinghAsmoedeus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingagambir@gmail.com) 
@@ -53,9 +42,6 @@ ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote monitoring.
 
 # 🎮 Also into:
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-
-<p align="center"><img src="assets/stage-6.jpg" width="100%" alt=""></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SinghAgambir05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SinghAgambir05&theme=dark&hide_border=false)<br/>
@@ -69,10 +55,6 @@ ESP32 + DHT11 + LDR streaming to Arduino IoT Cloud for remote monitoring.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SinghAgambir05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<p align="center">
-  <a href="https://SinghAgambir05.github.io"><img src="assets/stage-7.jpg" width="100%" alt="Driftlab: browse our portfolio"></a>
-</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=SinghAgambir05&icon=0&color=0)](https://visitcount.itsvg.in)
